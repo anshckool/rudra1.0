@@ -1,0 +1,15 @@
+# Rudra 1.0 🛡️
+
+**The Problem:** I built this because nobody actually reads 50-page Terms & Conditions before clicking "I Agree." 
+**The Solution:** Just paste any privacy policy into the app, and the AI instantly highlights the scary red flags and suggests safer alternatives.
+
+### 💻 How I Built It
+* **Frontend:** Clean and simple HTML, CSS, and Vanilla JavaScript.
+* **Backend:** Python and Flask.
+* **AI Engine:** Featherless AI API (using the open Mistral model).
+
+### 🚧 The Biggest Challenge
+The API servers got completely jammed by traffic right before the hackathon deadline! I had to quickly code a Python "Safety Net" that injects a backup response so my app wouldn't crash during live judging.
+
+### 🚀 What's Next
+I want to upgrade this into a Chrome Extension that automatically scans policies in the background while you browse.
