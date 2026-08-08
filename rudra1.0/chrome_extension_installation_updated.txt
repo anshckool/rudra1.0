@@ -1,0 +1,8 @@
+Install Your Custom Hackathon Project (Developer Mode)
+
+1. Open Google Chrome and type chrome://extensions/ into the URL address bar.
+2. Toggle the Developer mode switch to the "ON" position in the top right corner.
+3. Click the Load unpacked button that appears in the top left menu.
+4. Select the exact folder on your computer that contains your project's code files.
+5. Navigate to any website of your choice in a new tab.
+6. Scroll to the bottom and click on its Privacy Policy page to test your extension's scanning capabilities.
